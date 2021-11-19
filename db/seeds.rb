@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+ApiKey.create!
+
+#User.create!(first_name: 'Tiago', last_name: 'Santos', admin: true)
