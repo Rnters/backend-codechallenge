@@ -31,3 +31,7 @@
 
 en:
   hi: "Hi"
+  user_not_found: "User not found"
+  no_access_token: "No access token"
+  no_records_found: "No records found"
+  invalid_token: "Invalid token"
